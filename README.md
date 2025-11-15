@@ -1,1 +1,1 @@
-[![.github/workflows/gradle.yml](https://github.com/Elizabet0202/SettingUpCI4-/actions/workflows/gradle.yml/badge.svg)](https://github.com/Elizabet0202/SettingUpCI4-/actions/workflows/gradle.yml)
+[![.github/workflows/gradle.yml]([![Java CI with Gradle](https://github.com/Elizabet0202/SettingUpCI4-/actions/workflows/gradle.yml/badge.svg)](https://github.com/Elizabet0202/SettingUpCI4-/actions/workflows/gradle.yml)https://github.com/Elizabet0202/SettingUpCI4-/actions/workflows/gradle.yml/badge.svg)](https://github.com/Elizabet0202/SettingUpCI4-/actions/workflows/gradle.yml)
